@@ -1,0 +1,634 @@
+[
+	  {
+	    "keywords": [
+	      "ShootEm_Up",
+	      "Vertical",
+	      "Scroller",
+	      "AirPlane"
+	    ],
+			"status": "checked",
+	    "title": "1942",
+	    "system": "Arcade",
+	    "gameid": "1942",
+	    "launch": "mame",
+	    "series": "1942",
+	    "year": "1984",
+	    "publisher": "Capcom",
+			"picture": "%GID.png"
+	  },
+	  {
+	    "keywords": [
+	      "ShootEm_Up",
+	      "Vertical",
+	      "Scroller",
+	      "AirPlane"
+	    ],
+	    "status": "checked",
+	    "title": "1943 - The Battle of Midway",
+	    "series": "1942",
+	    "system": "Arcade",
+	    "gameid": "1943",
+	    "launch": "mame",
+	    "year": "1987",
+	    "publisher": "Capcom",
+			"picture": "%GID.png"
+	  },
+	  {
+	    "keywords": [
+	      "ShootEm_Up",
+	      "Vertical",
+	      "Scroller",
+	      "Space"
+	    ],
+	    "status": "checked",
+	    "title": "Galaxian",
+	    "series": "Galaxian",
+	    "system": "Arcade",
+	    "gameid": "galaxian",
+	    "launch": "mame",
+	    "year": "1987",
+	    "publisher": "Capcom",
+			"picture": "%GID.jpg"
+	  },
+	  {
+	    "keywords": [
+	      "Vertical",
+	      "Scroller",
+	      "ShootEm_Up"
+	    ],
+	    "status": "checked",
+	    "title": "Commando",
+	    "series": "Commando",
+	    "system": "Arcade",
+	    "gameid": "commando",
+	    "launch": "mame",
+	    "volume": "100",
+	    "year": "1985",
+	    "publisher": "Capcom",
+			"picture": "%GID.png"
+	  },
+	  {
+	    "keywords": [
+	      "3D",
+	      "ShootEm_Up",
+	      "AirPlane"
+	    ],
+	    "status": "checked",
+	    "title": "After Burner",
+	    "series": "After Burner",
+	    "system": "Arcade",
+	    "launch": "mame",
+	    "gameid": "aburner",
+	    "publisher": "Sega",
+	    "year": "1987",
+			"picture": "%GID.png"
+	  },
+	  {
+	    "keywords": [
+	      "3D",
+	      "ShootEm_Up",
+	      "AirPlane"
+	    ],
+	    "status": "checked",
+	    "title": "After Burner 2",
+	    "series": "After Burner",
+	    "system": "Arcade",
+	    "launch": "mame",
+	    "gameid": "aburner2",
+	    "publisher": "Sega",
+	    "year": "1987",
+			"picture": "%GID.jpg"
+	  },
+	  {
+	    "keywords": [
+	      "Breakout",
+	      "Science_Fiction",
+	      "Single_Screen"
+	    ],
+	    "status": "checked",
+	    "title": "Arkanoid",
+	    "series": "Arkanoid",
+	    "system": "Arcade",
+	    "launch": "mame",
+	    "gameid": "arkanoid",
+	    "publisher": "Taito",
+	    "year": "1986",
+			"picture": "%GID.jpg"
+	  },
+	  {
+	    "keywords": [
+	      "Breakout",
+	      "Science_Fiction",
+	      "Fixed"
+	    ],
+	    "status": "checked",
+	    "title": "Arkanoid 2 (Revenge Of Doh)",
+	    "series": "Arkanoid",
+	    "system": "Arcade",
+	    "launch": "mame",
+	    "gameid": "arknoid2",
+	    "publisher": "Taito",
+	    "year": "1987",
+			"picture": "%GID.png"
+	  },
+	  {
+	    "keywords": [
+	      "Maze",
+	      "Digging",
+	      "Single_Screen",
+	      "Classic"
+	    ],
+	    "status": "checked",
+	    "title": "Dig Dug",
+	    "series": "DigDug",
+	    "system": "Arcade",
+	    "launch": "mame",
+	    "gameid": "digdug",
+	    "publisher": "Namco",
+	    "year": "1982",
+			"picture": "%GID.png"
+	  },
+	  {
+	    "keywords": [
+	      "Platformer",
+	      "Single_Screen",
+	      "Classic2"
+	    ],
+	    "status": "checked",
+	    "title": "Bubble Bobble",
+	    "system": "Arcade",
+	    "launch": "mame73",
+	    "gameid": "bublbobl",
+	    "series": "Bubble Bobble",
+	    "year": "1986",
+	    "publisher": "Taito,Romstar",
+			"picture": "%GID.png"
+	  },
+	  {
+	    "keywords": [
+	      "ShootEm_Up",
+	      "Science_Fiction",
+	      "Space"
+	    ],
+	    "status": "checked",
+	    "title": "Crazy Comets",
+	    "series": "Crazy Comets",
+	    "system": "C64",
+	    "launch": "c64",
+	    "gameid": "crazycomets.d64",
+			"picture": "crazycomets.gif"
+	  },
+		{
+	    "keywords": [
+	      "ShootEm_Up",
+	      "Science_Fiction",
+	      "Space"
+	    ],
+	    "status": "wip",
+	    "title": "Neutron",
+	    "system": "C64",
+	    "launch": "c64jp2",
+			"year": "2019",
+			"publisher": "Sarah Jane Avory",
+	    "gameid": "Neutron2.d64",
+			"picture": "neutron.png"
+	  },
+	  {
+	    "keywords": [
+	      "ShootEm_Up",
+	      "Science_Fiction",
+	      "Single_Screen",
+	      "Arena",
+				"Bullet_Hell",
+				"Trackball"
+	    ],
+	    "status": "checked",
+	    "title": "Mono",
+	    "notes": "This game requires the trackball",
+	    "system": "Windows",
+	    "launch": "windows",
+	    "path": "C:\\arcade\\Sys\\remakes\\mono",
+	    "exe": "mono.exe",
+	    "year": "2005",
+	    "publisher": "Binary Zoo Studios",
+			"picture": "mono.jpg"
+	  },
+	  {
+	    "keywords": [
+	      "ShootEm_Up",
+	      "Science_Fiction",
+	      "Single_Screen",
+	      "Arena",
+	      "Vector"
+	    ],
+	    "status": "checked",
+	    "title": "Echoes",
+	    "series": "Echoes",
+	    "system": "Windows",
+	    "launch": "windows",
+	    "path": "C:\\arcade\\Sys\\remakes\\echoes",
+	    "exe": "echoes.exe",
+	    "year": "2007",
+	    "publisher": "Binary Zoo Studios",
+			"picture": "echoes.png"
+	  },
+	  {
+	    "keywords": [
+	      "Maze",
+	      "Digging",
+	      "Single_Screen",
+				"Remake"
+	    ],
+	    "status": "checked",
+	    "title": "Dig Dug Aftershock",
+	    "series": "DigDug",
+	    "launch": "windows",
+	    "system": "Remake",
+	    "exe": "Digdug_Aftershock.exe",
+	    "path": "C:\\arcade\\Sys\\remakes\\digdug_aftershock",
+	    "publisher": "UNKNOWN",
+	    "year": "2006",
+			"picture": "digdug_aftershock.jpg"
+	  },
+	  {
+	    "keywords": [
+	      "Pacman",
+	      "Classic",
+	      "Maze",
+	      "Fixed"
+	    ],
+	    "status": "checked",
+	    "title": "Ms Pacman",
+	    "series": "Pacman",
+	    "system": "Arcade",
+	    "launch": "mame",
+	    "gameid": "mspacman",
+	    "year": "1981",
+	    "publisher": "Midway,Namco",
+			"picture": "%GID.png"
+	  },
+	  {
+	    "keywords": [
+	      "Pacman",
+	      "Classic",
+	      "Maze",
+	      "Fixed"
+	    ],
+	    "status": "checked",
+	    "title": "Pacman",
+	    "series": "Pacman",
+	    "system": "Arcade",
+	    "launch": "mame",
+	    "gameid": "pacman",
+	    "publisher": "Midway,Namco",
+			"picture": "%GID.jpg"
+	  },
+	  {
+	    "keywords": [
+	      "Beat_em_up",
+	      "Single_Screen"
+	    ],
+	    "status": "checked",
+	    "title": "International Karate+",
+	    "series": "International Karate",
+	    "system": "C64",
+	    "launch": "c64",
+	    "gameid": "ikplus.d64",
+			"picture": "ikplus.jpg"
+
+	  },
+	  {
+	    "keywords": [
+	      "Single_Screen",
+	      "Remake"
+	    ],
+	    "status": "checked",
+	    "title": "AticAtac",
+	    "system": "C64",
+	    "launch": "c64",
+	    "gameid": "aticatac.d64",
+			"picture": "aticatac.gif"
+	  },
+	  {
+	    "keywords": [
+	      "Platformer",
+	      "Remake"
+	    ],
+	    "status": "checked",
+	    "title": "Mario Bros 64",
+	    "series": "Mario Bros",
+	    "system": "C64",
+	    "launch": "c64",
+	    "gameid": "Super_Mario_Bros_64_-_Zeropaige.d64",
+			"picture": "supermarioc64.jpg"
+	  },
+	  {
+	    "keywords": [
+	      "ShootEm_Up",
+				"Science_Fiction"
+	    ],
+	    "status": "checked",
+	    "title": "Terra Cresta",
+	    "series": "Terra Cresta",
+	    "system": "C64",
+	    "launch": "c64",
+	    "gameid": "Terra Cresta [Collection Disk 1].d64",
+			"picture": "terracresta.png"
+	  },
+	  {
+	    "keywords": [
+	      "Platformer",
+				"Fan_Game"
+	    ],
+	    "status": "checked",
+	    "title": "Fix it Felix Jr.",
+	    "series": "Fix-it_Felix_Jr",
+	    "system": "C64",
+	    "launch": "c64",
+	    "gameid": "Fix-it_Felix_Jr.prg",
+			"picture": "fixitfelixjr.png"
+	  },
+	  {
+	    "keywords": [
+	      "Platformer",
+	      "PETSCII"
+	    ],
+	    "status": "checked",
+	    "title": "Digeloi",
+	    "series": "",
+	    "system": "C64",
+	    "launch": "c64",
+	    "gameid": "digiloi.d64",
+			"picture": "digiloi.png"
+	  },
+	  {
+	    "keywords": [
+	      "ShootEm_Up",
+				"Scroller"
+	    ],
+	    "status": "checked",
+	    "title": "Fort Apocelypse",
+	    "series": "",
+	    "system": "C64",
+	    "launch": "c64jp2",
+	    "gameid": "FRTPCLYP.d64",
+			"picture": "fortapocalypse.gif"
+
+	  },
+	  {
+	    "keywords": [
+	      "Puzzle",
+	      "Classic"
+	    ],
+	    "status": "checked",
+	    "title": "Tetris",
+	    "series": "Tetris",
+	    "system": "Arcade",
+	    "launch": "mame",
+	    "gameid": "atetris",
+			"picture": "%GID.png"
+	  },
+	  {
+	    "keywords": [
+	      "Pacman",
+	      "Maze",
+	      "Scroller"
+	    ],
+	    "status": "checked",
+	    "title": "Pacmania",
+	    "series": "Pacman",
+	    "system": "Arcade",
+	    "launch": "mame",
+	    "gameid": "pacmania",
+	    "year": "1987",
+	    "publisher": "Namco",
+			"picture": "%GID.png"
+	  },
+	  {
+	    "keywords": [
+	      "ShootEm_Up",
+	      "Fixed",
+	      "Vertical",
+	      "Classic"
+	    ],
+	    "status": "checked",
+	    "title": "Millipede",
+	    "series": "Millipede",
+	    "system": "Arcade",
+	    "launch": "mame",
+	    "gameid": "milliped",
+	    "year": "1982",
+	    "publisher": "Atari",
+			"picture": "%GID.png"
+	  },
+		{
+	    "keywords": [
+	      "ShootEm_Up",
+	      "Fixed",
+	      "Space",
+	      "Classic"
+	    ],
+	    "status": "checked",
+	    "title": "Asteroids",
+	    "system": "Arcade",
+	    "launch": "mame",
+	    "gameid": "asteroid",
+	    "year": "1979",
+	    "publisher": "Atari",
+			"picture": "%GID.jpg"
+	  },
+		{
+	    "keywords": [
+	      "ShootEm_Up",
+	      "Fixed",
+	      "Space",
+	      "Classic"
+	    ],
+	    "status": "checked",
+	    "title": "Galaga",
+	    "system": "Arcade",
+	    "launch": "mame",
+	    "gameid": "galaga",
+	    "year": "1981",
+	    "publisher": "Namco",
+			"picture": "%GID.jpg"
+	  },
+		{
+	    "keywords": [
+	      "ShootEm_Up",
+	      "Fixed",
+	      "Space",
+	      "Classic"
+	    ],
+	    "status": "checked",
+	    "title": "Galaxian",
+	    "system": "Arcade",
+	    "launch": "mame",
+	    "gameid": "galaxian",
+	    "year": "1979",
+	    "publisher": "Namco",
+			"picture": "%GID.png"
+	  },
+		{
+	    "keywords": [
+				"Beat_em_up",
+	      "Single_Screen",
+				"Two_Player",
+	      "Scroller"
+	    ],
+	    "status": "checked",
+	    "title": "Golden Axe",
+	    "system": "Arcade",
+	    "launch": "mame73",
+	    "gameid": "goldnaxe",
+	    "year": "1989",
+	    "publisher": "Sega",
+			"picture": "%GID.jpg"
+	  },
+		{
+	    "keywords": [
+				"Platformer",
+	      "Scroller"
+	    ],
+	    "status": "checked",
+	    "title": "Indiana Jones and the Temple of Doom",
+	    "system": "Arcade",
+	    "launch": "mame",
+	    "gameid": "indytemp",
+	    "year": "1988",
+	    "publisher": "MindScape",
+			"picture": "%GID.png"
+	  },
+		{
+			"keywords": [
+	      "ShootEm_Up",
+	      "3D",
+				"Science_Fiction"
+	    ],
+	    "status": "checked",
+	    "title": "Space Harrier",
+	    "system": "Arcade",
+	    "launch": "mame73",
+	    "gameid": "sharrier",
+	    "year": "1985",
+	    "publisher": "Sega",
+			"picture": "%GID.png"
+	  },
+		{
+	    "keywords": [
+	      "ShootEm_Up",
+	      "Science_Fiction",
+	      "Single_Screen",
+	      "Arena",
+				"Space",
+				"Bullet_Hell"
+	    ],
+	    "status": "checked",
+			"notes": "press white button to exit",
+	    "title": "Veck",
+	    "system": "Windows",
+	    "launch": "windows",
+	    "path": "C:\\arcade\\Sys\\remakes\\VeckSE",
+	    "exe": "veck.exe",
+	    "year": "2006",
+	    "publisher": "Smayds",
+			"picture": "veck.png"
+	  },
+		{
+	    "keywords": [
+	      "ShootEm_Up",
+	      "Science_Fiction",
+	      "Single_Screen",
+	      "Arena",
+				"Space",
+				"Bullet_Hell",
+				"Trackball"
+	    ],
+	    "status": "checked",
+	    "title": "GridWars",
+			"notes": "This game requires the trackball",
+	    "system": "Windows",
+	    "launch": "windows",
+	    "path": "C:\\arcade\\Sys\\remakes\\GridWars",
+	    "exe": "GridWars.exe",
+	    "year": "2005",
+	    "publisher": "Mark Incitti",
+			"picture": "gridwars.png"
+	  },
+		{
+	    "keywords": [
+	      "ShootEm_Up",
+	      "Science_Fiction",
+	      "Single_Screen",
+	      "Arena",
+				"Space",
+				"Bullet_Hell"
+	    ],
+	    "status": "checked",
+	    "title": "Parsec47",
+	    "system": "Windows",
+	    "launch": "windows",
+	    "path": "C:\\arcade\\Sys\\remakes\\p47",
+	    "exe": "p47.exe",
+	    "year": "2004",
+	    "publisher": "ABA Games",
+			"picture": "p47.gif"
+	  },
+		{
+	 	 "keywords": [
+	 		 "ShootEm_Up",
+	 		 "Science_Fiction"
+	 	 ],
+	 	 "status": "checked",
+	 	 "title": "Hybris",
+	 	 "system": "Amiga",
+	 	 "launch": "amiga",
+	 	 "gameid": "hybrisa500.uae",
+	 	 "picture": "hybris.png"
+	 },
+	 {
+		"keywords": [
+	    "Platformer",
+			"Scroller"
+		],
+		"status": "wip",
+		"title": "Superfrog",
+		"system": "Amiga",
+		"launch": "amiga",
+		"gameid": "sfrog500.uae",
+		"picture": "superfrog.jpg",
+		"year": "1993",
+		"publisher": "Team17"
+	 },
+	 {
+		"keywords": [
+	    "Platformer"
+		],
+		"status": "wip",
+		"title": "Turrican",
+		"system": "Amiga",
+		"launch": "amiga",
+		"gameid": "turrican.uae",
+		"picture": "turrican.jpg",
+		"year": "1990",
+		"publisher": "Rainbow Arts"
+	 },
+	 {
+		"keywords": [
+			"ShootEm_Up",
+			"Horizontal",
+			"Scroller",
+			"Science_Fiction",
+			"Space"
+
+		],
+		"status": "wip",
+		"title": "Katakis",
+		"system": "Amiga",
+		"launch": "amiga",
+		"gameid": "katakis.uae",
+		"picture": "katakis.png",
+		"year": "1987",
+		"publisher": "Rainbow Arts"
+	 }
+]

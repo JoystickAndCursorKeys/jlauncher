@@ -1,0 +1,53 @@
+[{
+		"id": "mame",
+		"mode": "0",
+		"path": "C:\\arcade\\Sys\\Mame\\data",
+		"exe": "mame.exe",
+		"param": ["%GID"]
+	},
+	{
+		"id": "mame73",
+		"mode": "0",
+		"path": "C:\\arcade\\Sys\\Mame\\data",
+		"exe": "mame73.exe",
+		"param": ["%GID"]
+	},
+	{
+		"id": "c64",
+		"mode": "0",
+		"path": "C:\\arcade\\Sys\\WinVice\\Emulator\\bin",
+		"exe": "x64sc.exe",
+		"param": [
+				"-addconfig", "C:\\arcadelaunchy\\resources\\app\\conf\\vice.cfg",
+				"C:\\arcade\\Sys\\WinVice\\Games\\%GID"
+			]
+	},
+	{
+		"id": "c64jp2",
+		"mode": "0",
+		"path": "C:\\arcade\\Sys\\WinVice\\Emulator\\bin",
+		"exe": "x64sc.exe",
+		"param": [
+				"-addconfig", "C:\\arcadelaunchy\\resources\\app\\conf\\vice_port2.cfg",
+				"C:\\arcade\\Sys\\WinVice\\Games\\%GID"
+			]
+	},
+	{
+		"id": "amiga",
+		"mode": "0",
+		"path": "C:\\arcade\\Sys\\WinUAE4",
+		"exe": "winuae64.exe",
+		"param": [
+				"-s",
+				"use_gui=no",
+				"-f" ,
+				"C:\\arcade\\Sys\\WINUAEDATA\\Configurations\\%GID"
+			]
+
+	},
+	{
+		"id": "windows",
+		"mode": "1"
+	}
+
+]
